@@ -103,6 +103,104 @@
 			remoteGlobalIDString = 51729DEA1B9A4F5E004A00EB;
 			remoteInfo = Eureka;
 		};
+		9246F60C21ADDF7B0079FC17 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9246F60221ADDF7B0079FC17 /* SwifterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 07898B5D1F278D7600558C97;
+			remoteInfo = "SwifterSwift-iOS";
+		};
+		9246F60E21ADDF7B0079FC17 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9246F60221ADDF7B0079FC17 /* SwifterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 07898B6B1F278D9700558C97;
+			remoteInfo = "SwifterSwift-tvOS";
+		};
+		9246F61021ADDF7B0079FC17 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9246F60221ADDF7B0079FC17 /* SwifterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 07898B781F278DBC00558C97;
+			remoteInfo = "SwifterSwift-watchOS";
+		};
+		9246F61221ADDF7B0079FC17 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9246F60221ADDF7B0079FC17 /* SwifterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 07898B851F278DD200558C97;
+			remoteInfo = "SwifterSwift-macOS";
+		};
+		9246F61421ADDF7B0079FC17 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9246F60221ADDF7B0079FC17 /* SwifterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 07C50CC91F5EAF2700F46E5A;
+			remoteInfo = "SwifterSwift-iOSTests";
+		};
+		9246F61621ADDF7B0079FC17 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9246F60221ADDF7B0079FC17 /* SwifterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 07C50CD81F5EAF4B00F46E5A;
+			remoteInfo = "SwifterSwift-tvOSTests";
+		};
+		9246F61821ADDF7B0079FC17 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9246F60221ADDF7B0079FC17 /* SwifterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 07C50CE71F5EAF6300F46E5A;
+			remoteInfo = "SwifterSwift-macOSTests";
+		};
+		9246F62421ADDF8D0079FC17 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9246F61A21ADDF8D0079FC17 /* SwifterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 07898B5D1F278D7600558C97;
+			remoteInfo = "SwifterSwift-iOS";
+		};
+		9246F62621ADDF8D0079FC17 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9246F61A21ADDF8D0079FC17 /* SwifterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 07898B6B1F278D9700558C97;
+			remoteInfo = "SwifterSwift-tvOS";
+		};
+		9246F62821ADDF8D0079FC17 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9246F61A21ADDF8D0079FC17 /* SwifterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 07898B781F278DBC00558C97;
+			remoteInfo = "SwifterSwift-watchOS";
+		};
+		9246F62A21ADDF8D0079FC17 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9246F61A21ADDF8D0079FC17 /* SwifterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 07898B851F278DD200558C97;
+			remoteInfo = "SwifterSwift-macOS";
+		};
+		9246F62C21ADDF8D0079FC17 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9246F61A21ADDF8D0079FC17 /* SwifterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 07C50CC91F5EAF2700F46E5A;
+			remoteInfo = "SwifterSwift-iOSTests";
+		};
+		9246F62E21ADDF8D0079FC17 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9246F61A21ADDF8D0079FC17 /* SwifterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 07C50CD81F5EAF4B00F46E5A;
+			remoteInfo = "SwifterSwift-tvOSTests";
+		};
+		9246F63021ADDF8D0079FC17 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9246F61A21ADDF8D0079FC17 /* SwifterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 07C50CE71F5EAF6300F46E5A;
+			remoteInfo = "SwifterSwift-macOSTests";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -191,6 +289,8 @@
 		8FCCF8F020A32613004793A0 /* TriplePickerRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriplePickerRow.swift; sourceTree = "<group>"; };
 		8FCCF92220A473E7004793A0 /* DoublePickerInputRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoublePickerInputRow.swift; sourceTree = "<group>"; };
 		8FCCF92420A4794B004793A0 /* TriplePickerInputRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriplePickerInputRow.swift; sourceTree = "<group>"; };
+		9246F60221ADDF7B0079FC17 /* SwifterSwift.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SwifterSwift.xcodeproj; path = ../SwifterSwift/SwifterSwift.xcodeproj; sourceTree = "<group>"; };
+		9246F61A21ADDF8D0079FC17 /* SwifterSwift.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SwifterSwift.xcodeproj; path = ../SwifterSwift/SwifterSwift.xcodeproj; sourceTree = "<group>"; };
 		B244E6531FE1C94F0026B944 /* AlertOptionsRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AlertOptionsRow.swift; path = Common/AlertOptionsRow.swift; sourceTree = "<group>"; };
 		B257FE2D1EC0F66900043911 /* RowsInsertionTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RowsInsertionTests.swift; path = Tests/RowsInsertionTests.swift; sourceTree = SOURCE_ROOT; };
 		B2A401151EC0BA140042EDF0 /* SectionsInsertionTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SectionsInsertionTests.swift; path = Tests/SectionsInsertionTests.swift; sourceTree = SOURCE_ROOT; };
@@ -332,6 +432,8 @@
 		51729DE11B9A4F5E004A00EB = {
 			isa = PBXGroup;
 			children = (
+				9246F60221ADDF7B0079FC17 /* SwifterSwift.xcodeproj */,
+				9246F61A21ADDF8D0079FC17 /* SwifterSwift.xcodeproj */,
 				51729DED1B9A4F5E004A00EB /* Source */,
 				51729DF91B9A4F5E004A00EB /* Tests */,
 				51729DEC1B9A4F5E004A00EB /* Products */,
@@ -393,6 +495,34 @@
 			name = Resources;
 			path = Source/Resources;
 			sourceTree = SOURCE_ROOT;
+		};
+		9246F60321ADDF7B0079FC17 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9246F60D21ADDF7B0079FC17 /* SwifterSwift.framework */,
+				9246F60F21ADDF7B0079FC17 /* SwifterSwift.framework */,
+				9246F61121ADDF7B0079FC17 /* SwifterSwift.framework */,
+				9246F61321ADDF7B0079FC17 /* SwifterSwift.framework */,
+				9246F61521ADDF7B0079FC17 /* SwifterSwift-iOSTests.xctest */,
+				9246F61721ADDF7B0079FC17 /* SwifterSwift-tvOSTests.xctest */,
+				9246F61921ADDF7B0079FC17 /* SwifterSwift-macOSTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9246F61B21ADDF8D0079FC17 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9246F62521ADDF8D0079FC17 /* SwifterSwift.framework */,
+				9246F62721ADDF8D0079FC17 /* SwifterSwift.framework */,
+				9246F62921ADDF8D0079FC17 /* SwifterSwift.framework */,
+				9246F62B21ADDF8D0079FC17 /* SwifterSwift.framework */,
+				9246F62D21ADDF8D0079FC17 /* SwifterSwift-iOSTests.xctest */,
+				9246F62F21ADDF8D0079FC17 /* SwifterSwift-tvOSTests.xctest */,
+				9246F63121ADDF8D0079FC17 /* SwifterSwift-macOSTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
@@ -475,6 +605,16 @@
 			mainGroup = 51729DE11B9A4F5E004A00EB;
 			productRefGroup = 51729DEC1B9A4F5E004A00EB /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 9246F60321ADDF7B0079FC17 /* Products */;
+					ProjectRef = 9246F60221ADDF7B0079FC17 /* SwifterSwift.xcodeproj */;
+				},
+				{
+					ProductGroup = 9246F61B21ADDF8D0079FC17 /* Products */;
+					ProjectRef = 9246F61A21ADDF8D0079FC17 /* SwifterSwift.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				51729DEA1B9A4F5E004A00EB /* Eureka */,
@@ -482,6 +622,107 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		9246F60D21ADDF7B0079FC17 /* SwifterSwift.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = SwifterSwift.framework;
+			remoteRef = 9246F60C21ADDF7B0079FC17 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9246F60F21ADDF7B0079FC17 /* SwifterSwift.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = SwifterSwift.framework;
+			remoteRef = 9246F60E21ADDF7B0079FC17 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9246F61121ADDF7B0079FC17 /* SwifterSwift.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = SwifterSwift.framework;
+			remoteRef = 9246F61021ADDF7B0079FC17 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9246F61321ADDF7B0079FC17 /* SwifterSwift.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = SwifterSwift.framework;
+			remoteRef = 9246F61221ADDF7B0079FC17 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9246F61521ADDF7B0079FC17 /* SwifterSwift-iOSTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "SwifterSwift-iOSTests.xctest";
+			remoteRef = 9246F61421ADDF7B0079FC17 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9246F61721ADDF7B0079FC17 /* SwifterSwift-tvOSTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "SwifterSwift-tvOSTests.xctest";
+			remoteRef = 9246F61621ADDF7B0079FC17 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9246F61921ADDF7B0079FC17 /* SwifterSwift-macOSTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "SwifterSwift-macOSTests.xctest";
+			remoteRef = 9246F61821ADDF7B0079FC17 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9246F62521ADDF8D0079FC17 /* SwifterSwift.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = SwifterSwift.framework;
+			remoteRef = 9246F62421ADDF8D0079FC17 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9246F62721ADDF8D0079FC17 /* SwifterSwift.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = SwifterSwift.framework;
+			remoteRef = 9246F62621ADDF8D0079FC17 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9246F62921ADDF8D0079FC17 /* SwifterSwift.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = SwifterSwift.framework;
+			remoteRef = 9246F62821ADDF8D0079FC17 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9246F62B21ADDF8D0079FC17 /* SwifterSwift.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = SwifterSwift.framework;
+			remoteRef = 9246F62A21ADDF8D0079FC17 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9246F62D21ADDF8D0079FC17 /* SwifterSwift-iOSTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "SwifterSwift-iOSTests.xctest";
+			remoteRef = 9246F62C21ADDF8D0079FC17 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9246F62F21ADDF8D0079FC17 /* SwifterSwift-tvOSTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "SwifterSwift-tvOSTests.xctest";
+			remoteRef = 9246F62E21ADDF8D0079FC17 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9246F63121ADDF8D0079FC17 /* SwifterSwift-macOSTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "SwifterSwift-macOSTests.xctest";
+			remoteRef = 9246F63021ADDF8D0079FC17 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		51729DE91B9A4F5E004A00EB /* Resources */ = {
